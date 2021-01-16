@@ -1,2 +1,5 @@
 guitar
+<<<<<<< HEAD
 meiw
+=======
+ink
